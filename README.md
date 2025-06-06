@@ -1,21 +1,35 @@
-Project Description:
+# Employee Attrition Report:
+This project was completed as part of the Women Techsters Bootcamp (WTB), focusing on analyzing employee attrition using Excel. The goal was to identify factors driving attrition and provide actionable insights through data analysis and visualization.
 
-The Employee Attrition Report project was completed as part of the Women Techsters Bootcamp (WTB) to analyze factors driving employee turnover using a dataset of 2923 employee records. this project was conducted in Excel, and involved data cleaning, pivot analysis, and visualizations to uncover actionable insights for reducing attrition.
+## Project Overview:
+**Dataset**: HR Attrition Dataset with 2925 employee records, including columns like Attrition, Age, Job Roles, Gender, Department, and more.
+**Tools**: Excel (formulas, pivot tables, charts).
+**Analysis**: Explored attrition by gender, age group (18-19, 20-29, 30-39, 40-49, 50 & above), Job Roles, Education and Field of study, department, marital status, and years since last promotion. During Analysis, new columns were added to the original dataset (employee attrition status, age group) to facilitate data processing, categorization, and deeper insights into the factors driving employee attrition.
+**Visualization**: Created a dashboard to present findings.
+ 
+## Key Insights
+ **Attrition Rate**: 17% overall.
+ **High-Risk Groups**: Younger employees (20-29, 30-39) R&D and Sales department (282 and 186 attrition).
+ **Gender**: Males had a higher attrition (63% vs. 37% for females).
+**Marital Status**: Single employees showed 50% attrition, compaired to that of married employees (35%).
+ 
+## Dashboard:
+[Employee Attrition Analysis.xlsx](https://github.com/user-attachments/files/20631902/Employee.Attrition.Analysis.xlsx)
+![Employee attrition dashboard png](https://github.com/user-attachments/assets/be57c13d-4cf6-41d9-a8ae-95ae9de4851c)
 
-Objective: Identify key reasons of employee attrition by examining factors such as age, age, gender, department, marital status, education, education fields, job roles and year since last promotion.
 
-Dataset: The HR Attrition Dataset includes columns like Attrition (Yes/No), Age, Department, Monthly Income, and more, cleaned to remove duplicates, standardize formats, and handle missing values. Additional new column were formed to help identify drivers of employee attrition
+## Files:
+[HR Attrition Dataset cleaned.xlsx.csv](https://github.com/user-attachments/files/20631932/HR.Attrition.Dataset.cleaned.xlsx.csv)
+[Employee Attrition Analysis.xlsx](https://github.com/user-attachments/files/20631953/Employee.Attrition.Analysis.xlsx)
+![Employee attrition dashboard png](https://github.com/user-attachments/assets/8c3de265-729b-4c8e-8365-f4e94b167105)
 
-Analysis: Excel formulas (e.g. COUNTIF, COUNTIFS, IFS) to segment by categories (e.g., age groups: 18-19, 20-29, 30-39, 40-49, 50 & above).
 
-Visualization: Created a dashboard with charts (bar, column, pie) to highlight trends.
+## How to Use:
+1. Download `Employee_Attrition_Analysis.xlsx`.
+2. Open in Excel to explore the analysis, pivot tables, and charts.
+3. Refer to the dashboard image for a visual summary.
 
-Key Insights:
-  - Overall attrition rate: 17%.
-  - R&D department showed the highest employee attrition (282).
-  - Higher attrition in males (63%).
-  - Higher attrition in the number of singles that left the organization (50%).
+## Acknowledgments
+Special thanks to the **Women Techstars Bootcamp** for the opportunity to develop my data analysis skills.
 
-Recommendations: Suggested targeted retention programs for R&D and Sales staff, improved onboarding for younger employees, and workload adjustments to reduce turnover.
-
-skills demonstrated: data cleaning, analysis, visualization, storytelling using Excel, providing a foundation for data-driven decision-making in HR management.
+#WomenInTech #DataAnalytics #Excel #WomenTechstarsBootcamp #HRAttrition #Bootcamp
