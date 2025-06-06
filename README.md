@@ -13,8 +13,8 @@ Visualization: Created a dashboard with charts (bar, column, pie) to highlight t
 Key Insights:
   - Overall attrition rate: 17%.
   - R&D department showed the highest employee attrition (282).
-  - more attrition in males (63%).
-  - more singles left the organization (50%).
+  - Higher attrition in males (63%).
+  - Higher attrition in the number of singles that left the organization (50%).
 
 Recommendations: Suggested targeted retention programs for R&D and Sales staff, improved onboarding for younger employees, and workload adjustments to reduce turnover.
 
